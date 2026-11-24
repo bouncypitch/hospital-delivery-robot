@@ -1,6 +1,6 @@
-<a href="https://bouncypitch.github.io/jevbot-rx/"><img src="docs/media/demo-5x-preview.gif" alt="JevBOT Rx 60-second demo (5× speed): a nurse texts the robot, then Jev and DeepSeek race the same STAT delivery" width="100%"></a>
+<a href="https://bouncypitch.github.io/jevbot-hospital-delivery-robot/"><img src="docs/media/demo-5x-preview.gif" alt="JevBOT Rx 60-second demo (5× speed): a nurse texts the robot, then Jev and DeepSeek race the same STAT delivery" width="100%"></a>
 
-<p align="center">⬆️ The preview loops automatically · ▶️ press play below for the full-quality video · <b><a href="https://bouncypitch.github.io/jevbot-rx/">Demo page</a></b> · <a href="docs/media/jevbot-rx-demo-5x.mp4">Download the mp4</a></p>
+<p align="center">⬆️ The preview loops automatically · ▶️ press play below for the full-quality video · <b><a href="https://bouncypitch.github.io/jevbot-hospital-delivery-robot/">Demo page</a></b> · <a href="docs/media/jevbot-rx-demo-5x.mp4">Download the mp4</a></p>
 
 https://github.com/user-attachments/assets/25c0f56c-160e-4921-8f01-1fb7856ab71e
 
@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/25c0f56c-160e-4921-8f01-1fb7856ab71e
 **A hospital delivery robot that decides in milliseconds, not seconds.**
 JevBOT Rx handles the fetching, so nurses can handle the patients.
 
-🌐 **Demo page:** https://bouncypitch.github.io/jevbot-rx/ · ▶️ **60-second demo (5×):** [`docs/media/jevbot-rx-demo-5x.mp4`](docs/media/jevbot-rx-demo-5x.mp4) · **Full race video:** [`docs/media/jevbot-rx-brain-race.mp4`](docs/media/jevbot-rx-brain-race.mp4) · 📐 **Architecture (PDF):** [`docs/media/jevbot-rx-architecture.pdf`](docs/media/jevbot-rx-architecture.pdf) · ❓ **Every question asked to Jev:** [`docs/jev-questions.md`](docs/jev-questions.md)
+🌐 **Demo page:** https://bouncypitch.github.io/jevbot-hospital-delivery-robot/ · ▶️ **60-second demo (5×):** [`docs/media/jevbot-rx-demo-5x.mp4`](docs/media/jevbot-rx-demo-5x.mp4) · **Full race video:** [`docs/media/jevbot-rx-brain-race.mp4`](docs/media/jevbot-rx-brain-race.mp4) · 📐 **Architecture (PDF):** [`docs/media/jevbot-rx-architecture.pdf`](docs/media/jevbot-rx-architecture.pdf) · ❓ **Every question asked to Jev:** [`docs/jev-questions.md`](docs/jev-questions.md)
 
 ### Key metrics at a glance
 The same 20 real robot decisions were sent to every model, with the same inputs and each LLM on its fastest setting.
